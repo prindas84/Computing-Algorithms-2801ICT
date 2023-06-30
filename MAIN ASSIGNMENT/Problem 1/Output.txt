@@ -1,0 +1,12 @@
+Combinations: 6                   Runtime: 0.0005364418029785156 Seconds
+Combinations: 7                   Runtime: 0.0005364418029785156 Seconds
+Combinations: 9                   Runtime: 0.0005364418029785156 Seconds
+Combinations: 2                   Runtime: 0.0005364418029785156 Seconds
+Combinations: 10                  Runtime: 0.0005364418029785156 Seconds
+Combinations: 57                  Runtime: 0.0015485286712646484 Seconds
+Combinations: 14839               Runtime: 0.02370452880859375 Seconds
+Combinations: 278083              Runtime: 0.04601240158081055 Seconds
+Combinations: 4307252             Runtime: 0.5194070339202881 Seconds
+Combinations: 32100326            Runtime: 0.9733922481536865 Seconds
+Combinations: 410623254           Runtime: 3.0421764850616455 Seconds
+Combinations: 1589266556          Runtime: 19.342973470687866 Seconds
